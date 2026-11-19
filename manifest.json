@@ -1,0 +1,14 @@
+
+  "name": "糸日和",
+  "short_name": "糸日和",
+  "start_url": "./itobiyori.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./file_0000000029bc8209bafab4d2a6f73457.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
